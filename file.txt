@@ -1,4 +1,4 @@
 pacman
-estrella
+triangulo
 rombo
 piedra
